@@ -1,1 +1,1 @@
-# LearningWebsite
+# Educational Website Mockup
